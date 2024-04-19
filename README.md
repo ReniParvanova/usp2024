@@ -11,6 +11,7 @@ public class HelloWorld {
     }
     public void greetItalian ()
     {
-    System.out.println ("Ciao, Ciao!");
+    System.out.println ("Ciao");
+    System.out.println ("Ciao!");
     }
 }
