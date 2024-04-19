@@ -7,10 +7,10 @@ public class HelloWorld {
             gr.greetItalian ();
     }
     public void greetEnglish () {
-            System.out.println ("Hello World");
+            System.out.println ("Hello World2");
     }
     public void greetItalian ()
     {
-    System.out.println ("Ciao");
+    System.out.println ("Ciao!");
     }
 }
