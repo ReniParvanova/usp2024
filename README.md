@@ -8,11 +8,9 @@ public class HelloWorld {
     }
     public void greetEnglish () {
             System.out.println ("Hello World2");
-            System.out.println ("Hello World2");
     }
     public void greetItalian ()
     {
     System.out.println ("Ciao!");
-    System.out.println ("Ciao, Ciao!");
     }
 }
